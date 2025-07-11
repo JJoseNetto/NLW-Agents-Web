@@ -59,9 +59,9 @@ pnpm build     # Compila o projeto para produção
 pnpm preview   # Roda uma prévia do build gerado
 ```
 ### 📁 Outras ferramentas
-# Biome para lint e formatação
+- **Biome para lint e formatação**
 
-# tw-animate-css para animações com utilitários Tailwind
+- **tw-animate-css para animações com utilitários Tailwind**
 
 ### 📝 Licença
-# Projeto com fins educacionais, desenvolvido durante o NLW da Rocketseat.
+- **Projeto com fins educacionais, desenvolvido durante o NLW da Rocketseat.**
