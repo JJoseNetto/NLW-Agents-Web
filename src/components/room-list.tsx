@@ -19,7 +19,7 @@ export function RoomList() {
                     Acesso rápido para as salas criadas recentemente
                 </CardDescription>
             </CardHeader>
-            <CardContent className="flex flex-col gap-3">
+            <CardContent className="flex flex-col gap-3 max-h-[400px] overflow-y-auto">
                 {isLoading && (
                     <p className="text-muted-foreground text-sm">
                         Carregando salas...
